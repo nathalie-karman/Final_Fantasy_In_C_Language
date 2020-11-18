@@ -15,6 +15,7 @@ Chronologie du projet
 
 1) premières séances 
 - Nathalie, Alexandre
+                     
                      => fichiers perso.c/perso.h (aujourd'hui perso_commun.c et autres);
                      => fichiers inventaire.c/inventaire.h
                      => boîte à outils (commun.c/commun.h)
