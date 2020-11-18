@@ -56,6 +56,5 @@ Chronologie du projet
 - Valentin => implémentation combat en SDL.
 
 
-
   
 
